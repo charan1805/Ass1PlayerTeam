@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass1PlayerTeam\bin\Debug\Ass1PlayerTeam.exe.config
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass1PlayerTeam\bin\Debug\Ass1PlayerTeam.exe
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass1PlayerTeam\bin\Debug\Ass1PlayerTeam.pdb
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.exe
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.pdb
